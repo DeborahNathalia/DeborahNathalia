@@ -1,8 +1,5 @@
 <h1 align="center">Olá👋</h1>
 
-###
-
-<img align="right" height="60" src="fot 2d.png"  />
 
 ###
 
@@ -15,7 +12,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻  About me </h3>
 
 ###
 
@@ -47,15 +44,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeborahNathalia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=DeborahNathalia&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeborahNathalia/DeborahNathalia/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeborahNathalia/DeborahNathalia/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DeborahNathalia/DeborahNathalia/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
